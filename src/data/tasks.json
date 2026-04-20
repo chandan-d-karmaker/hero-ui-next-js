@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Complete Next.js Data Fetching Module",
+        "description": "Implement server-side and client-side fetching with error handling.",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2026-04-25"
+    },
+    {
+        "id": "2",
+        "title": "Fix JSON-Server Build Error",
+        "description": "Debug the fetch cache: 'no-store' issue occurring during production build.",
+        "status": "todo",
+        "priority": "medium",
+        "dueDate": "2026-04-22"
+    },
+    {
+        "id": "3",
+        "title": "Design Task Dashboard UI",
+        "description": "Create a responsive layout using Tailwind CSS and DaisyUI.",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2026-04-18"
+    },
+    {
+        "id": "4",
+        "title": "Database Schema Optimization",
+        "description": "Refactor db.json for better relationship mapping between users and tasks.",
+        "status": "todo",
+        "priority": "low",
+        "dueDate": "2026-04-30"
+    },
+    {
+        "id": "5",
+        "title": "Integrate Recharts for Productivity",
+        "description": "Visualize task completion rates using a BarChart component.",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2026-05-02"
+    }
+]
